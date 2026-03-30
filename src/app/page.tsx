@@ -184,7 +184,7 @@ export default function LandingPage() {
         {
           id: "t1",
           name: "Emma L.",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-with-dark-long-hair-smiling-coffee-shop_273609-2807.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-with-dark-long-hair-smiling-coffee-shop_273609-2807.jpg?_wi=1",
         },
         {
           id: "t2",
@@ -204,7 +204,7 @@ export default function LandingPage() {
         {
           id: "t5",
           name: "Marcus R.",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-with-dark-long-hair-smiling-coffee-shop_273609-2807.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-with-dark-long-hair-smiling-coffee-shop_273609-2807.jpg?_wi=2",
         },
       ]}
       cardTitle="What Our Community Says"
